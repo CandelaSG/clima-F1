@@ -1,0 +1,150 @@
+raceId,year,gp_name,rain,sc_laps,vsc_laps,safety_car,total_sc
+989,2018,Australian GP,1,4,3,1,7
+990,2018,Bahrain GP,0,0,3,1,3
+991,2018,Chinese GP,0,5,0,1,5
+992,2018,Azerbaijan GP,0,13,0,1,13
+993,2018,Spanish GP,1,6,2,1,8
+994,2018,Monaco GP,1,0,2,1,2
+995,2018,Canadian GP,0,4,0,1,4
+996,2018,French GP,1,5,2,1,7
+997,2018,Austrian GP,0,0,2,1,2
+998,2018,British GP,0,9,0,1,9
+999,2018,German GP,1,6,0,1,6
+1000,2018,Hungarian GP,0,0,4,1,4
+1001,2018,Belgian GP,0,4,0,1,4
+1002,2018,Italian GP,1,1,2,1,3
+1003,2018,Singapore GP,0,4,0,1,4
+1004,2018,Russian GP,1,0,0,0,0
+1005,2018,Japanese GP,0,0,2,1,2
+1006,2018,United States GP,0,0,2,1,2
+1007,2018,Mexican GP,0,0,6,1,6
+1008,2018,Brazilian GP,0,0,0,0,0
+1009,2018,Abu Dhabi GP,1,4,2,1,6
+1010,2019,Australian GP,1,0,0,0,0
+1011,2019,Bahrain GP,0,3,0,1,3
+1012,2019,Chinese GP,0,0,2,1,2
+1013,2019,Azerbaijan GP,0,0,2,1,2
+1014,2019,Spanish GP,0,7,0,1,7
+1015,2019,Monaco GP,1,4,0,1,4
+1016,2019,Canadian GP,0,0,0,0,0
+1017,2019,French GP,0,0,1,1,1
+1018,2019,Austrian GP,0,0,0,0,0
+1019,2019,British GP,0,4,0,1,4
+1020,2019,German GP,1,15,3,1,18
+1021,2019,Hungarian GP,0,0,0,0,0
+1022,2019,Belgian GP,0,4,0,1,4
+1023,2019,Italian GP,0,0,2,1,2
+1024,2019,Singapore GP,0,11,0,1,11
+1025,2019,Russian GP,1,7,2,1,9
+1026,2019,Japanese GP,0,0,0,0,0
+1027,2019,Mexican GP,0,0,3,1,3
+1028,2019,United States GP,0,0,0,0,0
+1029,2019,Brazilian GP,0,10,0,1,10
+1030,2019,Abu Dhabi GP,0,0,0,0,0
+1031,2020,Austrian GP,0,17,0,1,17
+1032,2020,Styrian GP,1,3,0,1,3
+1033,2020,Hungarian GP,1,0,0,0,0
+1034,2020,British GP,0,10,0,1,10
+1035,2020,70th Anniversary GP,0,0,0,0,0
+1036,2020,Spanish GP,0,0,0,0,0
+1037,2020,Belgian GP,0,4,0,1,4
+1038,2020,Italian GP,0,6,0,1,6
+1039,2020,Tuscan GP,0,11,0,1,11
+1040,2020,Russian GP,0,5,1,1,6
+1041,2020,Eifel GP,1,5,2,1,7
+1042,2020,Portuguese GP,0,0,0,0,0
+1043,2020,Emilia Romagna GP,0,7,2,1,9
+1044,2020,Turkish GP,0,0,3,1,3
+1045,2020,Bahrain GP,0,9,0,1,9
+1046,2020,Sakhir GP,0,13,3,1,16
+1047,2020,Abu Dhabi GP,0,3,2,1,5
+1051,2021,Qatar GP,0,0,3,1,3
+1052,2021,Bahrain GP,0,3,2,1,5
+1053,2021,Emilia Romagna GP,1,7,0,1,7
+1054,2021,Portuguese GP,0,5,0,1,5
+1055,2021,Spanish GP,0,3,0,1,3
+1056,2021,Monaco GP,0,0,0,0,0
+1057,2021,Azerbaijan GP,0,7,0,1,7
+1058,2021,Styrian GP,0,0,0,0,0
+1059,2021,French GP,0,0,0,0,0
+1060,2021,Austrian GP,1,3,0,1,3
+1061,2021,British GP,0,2,0,1,2
+1062,2021,Hungarian GP,1,2,0,1,2
+1063,2021,Belgian GP,1,0,0,0,0
+1064,2021,Dutch GP,0,0,0,0,0
+1065,2021,Italian GP,0,5,3,1,8
+1066,2021,Russian GP,1,0,0,0,0
+1067,2021,Turkish GP,0,0,0,0,0
+1069,2021,United States GP,0,0,1,1,1
+1070,2021,Mexico City GP,0,4,0,1,4
+1071,2021,São Paulo GP,1,4,5,1,9
+1072,2021,Saudi Arabian GP,0,4,9,1,13
+1073,2021,Abu Dhabi GP,0,5,2,1,7
+1074,2022,Bahrain GP,0,5,1,1,6
+1075,2022,Saudi Arabian GP,0,5,5,1,10
+1076,2022,Australian GP,0,8,3,1,11
+1077,2022,Emilia Romagna GP,0,4,3,1,7
+1078,2022,Miami GP,1,6,1,1,7
+1079,2022,Spanish GP,0,0,0,0,0
+1080,2022,Monaco GP,1,5,0,1,5
+1081,2022,Azerbaijan GP,0,0,5,1,5
+1082,2022,Canadian GP,0,6,3,1,9
+1083,2022,British GP,0,4,0,1,4
+1084,2022,Austrian GP,0,0,2,1,2
+1085,2022,French GP,0,3,1,1,4
+1086,2022,Hungarian GP,1,0,4,1,4
+1087,2022,Belgian GP,0,3,0,1,3
+1088,2022,Dutch GP,0,5,3,1,8
+1089,2022,Italian GP,0,6,1,1,7
+1091,2022,Singapore GP,1,7,7,1,14
+1092,2022,Japanese GP,1,2,0,1,2
+1093,2022,United States GP,0,8,0,1,8
+1094,2022,Mexico City GP,0,0,2,1,2
+1095,2022,São Paulo GP,0,12,2,1,14
+1096,2022,Abu Dhabi GP,0,0,0,0,0
+1098,2023,Bahrain GP,0,0,2,1,2
+1099,2023,Saudi Arabian GP,0,3,0,1,3
+1100,2023,Australian GP,0,7,2,1,9
+1101,2023,Azerbaijan GP,0,3,0,1,3
+1102,2023,Miami GP,0,0,0,0,0
+1104,2023,Monaco GP,1,0,0,0,0
+1105,2023,Spanish GP,0,0,0,0,0
+1106,2023,Canadian GP,0,5,1,1,6
+1107,2023,Austrian GP,1,3,3,1,6
+1108,2023,British GP,0,6,1,1,7
+1109,2023,Hungarian GP,0,0,0,0,0
+1110,2023,Belgian GP,1,0,0,0,0
+1111,2023,Dutch GP,1,8,1,1,9
+1112,2023,Italian GP,0,0,0,0,0
+1113,2023,Singapore GP,0,3,2,1,5
+1114,2023,Japanese GP,0,4,1,1,5
+1115,2023,Qatar GP,0,4,0,1,4
+1116,2023,United States GP,0,0,0,0,0
+1117,2023,Mexico City GP,0,3,1,1,4
+1118,2023,São Paulo GP,1,2,0,1,2
+1119,2023,Las Vegas GP,0,7,2,1,9
+1120,2023,Abu Dhabi GP,0,0,0,0,0
+1121,2024,Bahrain GP,0,0,0,0,0
+1122,2024,Saudi Arabian GP,0,3,0,1,3
+1123,2024,Australian GP,0,0,3,1,3
+1124,2024,Japanese GP,0,0,0,0,0
+1125,2024,Chinese GP,0,9,2,1,11
+1126,2024,Miami GP,0,5,1,1,6
+1127,2024,Emilia Romagna GP,0,0,0,0,0
+1128,2024,Monaco GP,0,2,0,1,2
+1129,2024,Canadian GP,1,10,0,1,10
+1130,2024,Spanish GP,0,0,0,0,0
+1131,2024,Austrian GP,1,0,1,1,1
+1132,2024,British GP,1,0,1,1,1
+1133,2024,Hungarian GP,0,0,0,0,0
+1134,2024,Belgian GP,0,0,0,0,0
+1135,2024,Dutch GP,0,0,0,0,0
+1136,2024,Italian GP,0,0,0,0,0
+1137,2024,Azerbaijan GP,0,0,1,1,1
+1138,2024,Singapore GP,0,0,0,0,0
+1139,2024,United States GP,0,3,0,1,3
+1140,2024,Mexico City GP,0,6,0,1,6
+1141,2024,São Paulo GP,1,7,1,1,8
+1142,2024,Las Vegas GP,0,0,0,0,0
+1143,2024,Qatar GP,0,12,1,1,13
+1144,2024,Abu Dhabi GP,0,0,2,1,2
